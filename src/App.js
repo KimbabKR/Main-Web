@@ -1,21 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <iframe src="https://discord.com/widget?id=740794177255768136&theme=dark" title="Team Kimbab" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Team kimbab
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://discord.com/invite/7WKkwBUp"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn More
         </a>
       </header>
     </div>
